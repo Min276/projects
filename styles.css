@@ -1,0 +1,13 @@
+h1 {
+    background-image: url(assets/backdrop2.jfif);
+    background-size: cover;
+    color: white;
+}
+
+.card {
+    padding: 2rem;
+}
+
+.status, #welcomeMessage{
+    color: rgb(46, 159, 251);
+}
